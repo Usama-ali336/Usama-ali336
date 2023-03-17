@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Finding the hidden values inside the data or to developed the systems with high level of intelligene is my inspiration to pursue Master in Data science. Previously, I got the degree in electronics engineering with focus in embedded system.
+Curious in search of hidden values inside the data along with building such systems which has high level of intelligene. This is my inspiration behind studying Master in Data science. Previously, I got the degree in electronics engineering with focus in embedded system.
 
 <!--
 **Usama-ali336/Usama-ali336** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
