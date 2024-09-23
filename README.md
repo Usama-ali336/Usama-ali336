@@ -3,7 +3,7 @@
 
 Curious in search of hidden values inside the data along with building such systems which has high level of intelligene. This is my inspiration behind studying Master in Data science. Previously, I got the degree in electronics engineering with focus in embedded system.
 
-### Tech Stack
+
 
 <!--
 **Usama-ali336/Usama-ali336** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
